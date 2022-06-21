@@ -1210,9 +1210,11 @@ form textarea {
     color: white; }
 
 .section-title {
-  font-size: 48px;
-  font-size: 2em;
-  font-weight: 300; }
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 29px; }
+
   .section-title span {
     color: #61d8ba; }
 
