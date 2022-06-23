@@ -1345,9 +1345,9 @@ form textarea {
     -webkit-transition: .3s ease;
             transition: .3s ease; }
     .subscribe-form input[type="text"]:focus, .subscribe-form input[type="text"]:active, .subscribe-form input[type="email"]:focus, .subscribe-form input[type="email"]:active {
-      border-color: #61d8ba; }
+      border-color: #fff; }
       .subscribe-form input[type="text"]:focus ~ .fa, .subscribe-form input[type="text"]:active ~ .fa, .subscribe-form input[type="email"]:focus ~ .fa, .subscribe-form input[type="email"]:active ~ .fa {
-        color: #61d8ba; }
+        color: #fff; }
   .subscribe-form .fa {
     position: absolute;
     left: 20px;
