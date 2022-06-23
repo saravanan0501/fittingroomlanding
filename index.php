@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
 		
 		<title>The Fitting Room - Marketplace for Designers</title>
-
+        <link rel="icon"  type="image/x-icon" href="http://thefittingroom.com/images/favicon.jpeg"/>
 		<!-- Loading third party fonts -->
 		<link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
 
