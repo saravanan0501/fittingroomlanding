@@ -39,7 +39,7 @@
 			<footer class="site-footer">
 				<div class="container shrinked">
 					
-				     <form method="POST" action="https://sarva.digital/fittingroom/subscribe.php" class="subscribe-form">
+				     <form method="POST" action="http://thefittingroom.com/subscribe.php" class="subscribe-form">
 						<input type="text" placeholder="Enter your email to join our newsletter" name="Email">
 						<i class="fa fa-envelope"></i>
 						<input type="submit" value="Subscribe!">
