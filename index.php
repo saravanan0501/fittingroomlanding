@@ -46,7 +46,7 @@
 					</form> <!-- .subscribe-form -->
 					
 					<div class="social-links">
-						<a href="https://www.instagram.com/fittingroom.d3/?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://www.instagram.com/fittingroom.d3/?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fa fa-instagram"></i></a>
 						<!--<a href="#"><i class="fa fa-google-plus"></i></a>
 						<a href="#"><i class="fa fa-twitter"></i></a>
 						<a href="#"><i class="fa fa-pinterest"></i></a>-->
