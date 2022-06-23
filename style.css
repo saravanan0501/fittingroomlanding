@@ -1308,13 +1308,13 @@ form textarea {
     .contact-form .control input, .contact-form .control textarea {
       width: 100%;
       padding-left: 50px;
-      color: #61d8ba;
+      color: #fff;
       -webkit-transition: .3s ease;
               transition: .3s ease; }
       .contact-form .control input:focus, .contact-form .control input:hover, .contact-form .control textarea:focus, .contact-form .control textarea:hover {
-        border-color: #61d8ba; }
+        border-color: #fff; }
         .contact-form .control input:focus + .fa, .contact-form .control input:hover + .fa, .contact-form .control textarea:focus + .fa, .contact-form .control textarea:hover + .fa {
-          color: #61d8ba; }
+          color: #fff; }
     .contact-form .control textarea {
       min-height: 160px;
       resize: vertical; }

@@ -5,7 +5,7 @@ $recipient = "saravananitbtech@gmail.com";
 
 $subject = "The Fitting Room - Subscribe from coming soon page";
 
-$location = "https://sarva.digital/fittingroom/";
+$location = "http://thefittingroom.com/";
 
 
 $sender = $recipient;
